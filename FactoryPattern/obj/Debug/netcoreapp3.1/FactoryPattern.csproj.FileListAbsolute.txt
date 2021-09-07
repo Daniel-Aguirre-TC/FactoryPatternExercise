@@ -1,0 +1,13 @@
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfoInputs.cache
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.AssemblyInfo.cs
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.exe
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.deps.json
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.json
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.runtimeconfig.dev.json
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\bin\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.dll
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.pdb
+C:\Users\Second-Desktop\repos\FactoryPattern\FactoryPattern\obj\Debug\netcoreapp3.1\FactoryPattern.genruntimeconfig.cache
